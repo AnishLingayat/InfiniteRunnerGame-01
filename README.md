@@ -1,1 +1,2 @@
-# InfiniteRunnerGame-01
+# trex_runner
+trexrunnergame
